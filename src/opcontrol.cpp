@@ -15,7 +15,7 @@
  */
 void opcontrol() {
 	pros::Controller master(pros::E_CONTROLLER_MASTER);
-	pros::Motor left_mtr(1);
+	pros::Motor left_mtr(1); 
 	pros::Motor right_mtr(3);
 	pros::Motor left_mtr2(4);
 	pros::Motor right_mtr2(6);
