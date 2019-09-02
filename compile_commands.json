@@ -28,7 +28,7 @@
             "-fdiagnostics-color",
             "--std=gnu++17",
             "-o",
-            "bin/initialize.cpp.o",
+            "C:/Users/F2862/AppData/Local/Temp/tmpui_57w2c/initialize.cpp.o",
             "src\\initialize.cpp"
         ],
         "directory": "C:\\Felix Shen\\Vex\\PROS\\Comp_Team",
@@ -63,11 +63,11 @@
             "-fdiagnostics-color",
             "--std=gnu++17",
             "-o",
-            "bin/autonomous.cpp.o",
-            "src\\autonomous.cpp"
+            "C:/Users/F2862/AppData/Local/Temp/tmpui_57w2c/opcontrol.cpp.o",
+            "src\\opcontrol.cpp"
         ],
         "directory": "C:\\Felix Shen\\Vex\\PROS\\Comp_Team",
-        "file": "src\\autonomous.cpp"
+        "file": "src\\opcontrol.cpp"
     },
     {
         "arguments": [
@@ -98,10 +98,10 @@
             "-fdiagnostics-color",
             "--std=gnu++17",
             "-o",
-            "bin/opcontrol.cpp.o",
-            "src\\opcontrol.cpp"
+            "C:/Users/F2862/AppData/Local/Temp/tmpui_57w2c/autonomous.cpp.o",
+            "src\\autonomous.cpp"
         ],
         "directory": "C:\\Felix Shen\\Vex\\PROS\\Comp_Team",
-        "file": "src\\opcontrol.cpp"
+        "file": "src\\autonomous.cpp"
     }
 ]
